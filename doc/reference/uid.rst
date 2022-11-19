@@ -35,6 +35,9 @@ Transfer Syntax UIDs
    HEVCMP51
    HEVCM10P51
    RLELossless
+   JPEG2000MultiComponentLossless
+   JPEG2000MultiComponent
+   NewDefinedUID
 
 
 Transfer Syntax Lists
