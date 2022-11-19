@@ -233,7 +233,11 @@ class UID(str):
 
         return False
 
-
+RLELossless = UID('1.2.840.10008.1.2.5')
+"""1.2.840.10008.1.2.5"""
+# **Add this**
+NewDefinedUID = UID('1.2.3.4.500')
+"""1.2.3.4.500"""
 # Many thanks to the Medical Connections for offering free
 # valid UIDs (http://www.medicalconnections.co.uk/FreeUID.html)
 # Their service was used to obtain the following root UID for pydicom:
